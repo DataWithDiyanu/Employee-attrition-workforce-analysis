@@ -91,7 +91,7 @@ It also helped me understand the importance of checking data quality before draw
 
 ## Project Files
 
-[Download the Employee Attrition & Workforce Analysis Workbook](./Employee Attrition & Workforce Analysis.xlsx)
+[Download the Employee Attrition & Workforce Analysis Workbook](./Employee%20Attrition%20and%20Workforce%20Analysis.xlsx)
 
 The workbook contains the original dataset, cleaned data, data quality checks, analysis, pivot tables, dashboard and project report.
 
